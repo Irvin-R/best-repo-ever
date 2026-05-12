@@ -2,5 +2,6 @@
 
 These are test changes I'm making for git
 
-Merge conflict test
-Let's see this exercise
+Merge Conflict Test 2
+How are you?
+
